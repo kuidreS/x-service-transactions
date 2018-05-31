@@ -1,0 +1,7 @@
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/ModelServiceApp.java
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/service/UserService.java
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/repository/UserRepository.java
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/entity/User.java
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/controller/UserController.java
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/dto/UserDto.java
+/Users/vserdiuk/Projects/FirstTestModelService/src/main/java/vitalii/serdiuk/test/util/Util.java
